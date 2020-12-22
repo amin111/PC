@@ -1,134 +1,134 @@
 {
-    "collection":[
-  {
-    "woman": [
+   "collection":[
       {
-        "item_type": "itype1",
-        "item_code": "icode_1",
-        "item_color": "white",
-        "item_size": "L",
-        "item_ref": "iref_2",
-        "item_price": "530",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Amin"
-      },
-      {
-        "item_type": "itype2",
-        "item_code": "icode_4",
-        "item_color": "yellow",
-        "item_size": "L",
-        "item_ref": "iref_1",
-        "item_price": "220",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Amin"
-      },
-      {
-        "item_type": "itype2",
-        "item_code": "icode_5",
-        "item_color": "orange",
-        "item_size": "M",
-        "item_ref": "iref_2",
-        "item_price": "1120",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Asmita"
-      },
-      {
-        "item_type": "itype2",
-        "item_code": "icode_6",
-        "item_color": "purple",
-        "item_size": "XL",
-        "item_ref": "iref_3",
-        "item_price": "1250",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Manisha"
-      },
-      {
-        "item_type": "itype3",
-        "item_code": "icode_7",
-        "item_color": "white",
-        "item_size": "L",
-        "item_ref": "iref_5",
-        "item_price": "1380",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Amin"
-      },
-      {
-        "item_type": "itype3",
-        "item_code": "icode_8",
-        "item_color": "blue",
-        "item_size": "M",
-        "item_ref": "iref_4",
-        "item_price": "890",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Asmita"
+         "woman":[
+            {
+               "item_type":"itype1",
+               "item_code":"icode_1",
+               "item_color":"white",
+               "item_size":"L",
+               "item_ref":"iref_2",
+               "item_price":"530",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Amin"
+            },
+            {
+               "item_type":"itype2",
+               "item_code":"icode_4",
+               "item_color":"yellow",
+               "item_size":"L",
+               "item_ref":"iref_1",
+               "item_price":"220",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Amin"
+            },
+            {
+               "item_type":"itype2",
+               "item_code":"icode_5",
+               "item_color":"orange",
+               "item_size":"M",
+               "item_ref":"iref_2",
+               "item_price":"1120",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Asmita"
+            },
+            {
+               "item_type":"itype2",
+               "item_code":"icode_6",
+               "item_color":"purple",
+               "item_size":"XL",
+               "item_ref":"iref_3",
+               "item_price":"1250",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Manisha"
+            },
+            {
+               "item_type":"itype3",
+               "item_code":"icode_7",
+               "item_color":"white",
+               "item_size":"L",
+               "item_ref":"iref_5",
+               "item_price":"1380",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Amin"
+            },
+            {
+               "item_type":"itype3",
+               "item_code":"icode_8",
+               "item_color":"blue",
+               "item_size":"M",
+               "item_ref":"iref_4",
+               "item_price":"890",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Asmita"
+            }
+         ],
+         "man":[
+            {
+               "item_type":"itype3",
+               "item_code":"icode_8",
+               "item_color":"blue",
+               "item_size":"M",
+               "item_ref":"iref_4",
+               "item_price":"890",
+               "item_added_on":"12/22/20",
+               "item_added_by":"Asmita"
+            }
+         ]
       }
-    ],
-    "man": [
+   ],
+   "item_ref":[
       {
-        "item_type": "itype3",
-        "item_code": "icode_8",
-        "item_color": "blue",
-        "item_size": "M",
-        "item_ref": "iref_4",
-        "item_price": "890",
-        "item_added_on": "12/22/20",
-        "item_added_by": "Asmita"
+         "item_refrense":"iref_1",
+         "item_urls":"D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\res\\mipmap-mdpi\\ic_launcher_round.png"
+      },
+      {
+         "item_refrense":"iref_2",
+         "item_urls":"D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\p_trans.png"
+      },
+      {
+         "item_refrense":"iref_3",
+         "item_urls":"D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\res\\mipmap-mdpi\\ic_launcher_round.png"
+      },
+      {
+         "item_refrense":"iref_4",
+         "item_urls":"D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\p_trans.png"
+      },
+      {
+         "item_refrense":"iref_5",
+         "item_urls":"D:\\collection\\p_trans.png;D:\\collection\\p_trans.png"
       }
-    ]
-  }
-],
-    "item_ref": [
-        {
-            "item_refrense": "iref_1",
-            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\res\\mipmap-mdpi\\ic_launcher_round.png"
-        },
-        {
-            "item_refrense": "iref_2",
-            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\p_trans.png"
-        },
-        {
-            "item_refrense": "iref_3",
-            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\res\\mipmap-mdpi\\ic_launcher_round.png"
-        },
-        {
-            "item_refrense": "iref_4",
-            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\p_trans.png"
-        },
-        {
-            "item_refrense": "iref_5",
-            "item_urls": "D:\\collection\\p_trans.png;D:\\collection\\p_trans.png"
-        }
-    ],
-    "item_type": [
-        {
-            "item_type": "itype_1",
-            "item_name": "iname_1",
-            "item_description": "idesc_1",
-            "item_brand": "ibrand_1"
-        },
-        {
-            "item_type": "itype_2",
-            "item_name": "iname_2",
-            "item_description": "idesc_2",
-            "item_brand": "ibrand_2"
-        },
-        {
-            "item_type": "itype_3",
-            "item_name": "iname_3",
-            "item_description": "idesc_3",
-            "item_brand": "ibrand_3"
-        },
-        {
-            "item_type": "itype_4",
-            "item_name": "iname_4",
-            "item_description": "idesc_4",
-            "item_brand": "ibrand_4"
-        },
-        {
-            "item_type": "itype_5",
-            "item_name": "iname_5",
-            "item_description": "idesc_5",
-            "item_brand": "ibrand_5"
-        }
-    ]
+   ],
+   "item_type":[
+      {
+         "item_type":"itype_1",
+         "item_name":"iname_1",
+         "item_description":"idesc_1",
+         "item_brand":"ibrand_1"
+      },
+      {
+         "item_type":"itype_2",
+         "item_name":"iname_2",
+         "item_description":"idesc_2",
+         "item_brand":"ibrand_2"
+      },
+      {
+         "item_type":"itype_3",
+         "item_name":"iname_3",
+         "item_description":"idesc_3",
+         "item_brand":"ibrand_3"
+      },
+      {
+         "item_type":"itype_4",
+         "item_name":"iname_4",
+         "item_description":"idesc_4",
+         "item_brand":"ibrand_4"
+      },
+      {
+         "item_type":"itype_5",
+         "item_name":"iname_5",
+         "item_description":"idesc_5",
+         "item_brand":"ibrand_5"
+      }
+   ]
 }
