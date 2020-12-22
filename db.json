@@ -11,26 +11,6 @@
             "item_added_by": "Amin"
         },
         {
-            "item_type": "itype1",
-            "item_code": "icode_2",
-            "item_color": "blue",
-            "item_size": "M",
-            "item_ref": "iref_3",
-            "item_price": "850",
-            "item_added_on": "12/22/20",
-            "item_added_by": "Asmita"
-        },
-        {
-            "item_type": "itype1",
-            "item_code": "icode_3",
-            "item_color": "green",
-            "item_size": "XL",
-            "item_ref": "iref_4",
-            "item_price": "230",
-            "item_added_on": "12/22/20",
-            "item_added_by": "Manisha"
-        },
-        {
             "item_type": "itype2",
             "item_code": "icode_4",
             "item_color": "yellow",
