@@ -1,5 +1,6 @@
 {
     "collection": [
+    "woman": [
         {
             "item_type": "itype1",
             "item_code": "icode_1",
@@ -60,6 +61,18 @@
             "item_added_on": "12/22/20",
             "item_added_by": "Asmita"
         }
+        ],
+    "man" : [
+    {
+            "item_type": "itype3",
+            "item_code": "icode_8",
+            "item_color": "blue",
+            "item_size": "M",
+            "item_ref": "iref_4",
+            "item_price": "890",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Asmita"
+        }]
     ],
     "item_ref": [
         {
