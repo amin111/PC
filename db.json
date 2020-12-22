@@ -1,19 +1,138 @@
 {
     "collection": [
         {
-            "item_type": {
+            "item_type": "itype1",
+            "item_code": "icode_1",
+            "item_color": "white",
+            "item_size": "L",
+            "item_ref": "iref_2",
+            "item_price": "530",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Amin"
+        },
+        {
+            "item_type": "itype1",
+            "item_code": "icode_2",
+            "item_color": "blue",
+            "item_size": "M",
+            "item_ref": "iref_3",
+            "item_price": "850",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Asmita"
+        },
+        {
+            "item_type": "itype1",
+            "item_code": "icode_3",
+            "item_color": "green",
+            "item_size": "XL",
+            "item_ref": "iref_4",
+            "item_price": "230",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Manisha"
+        },
+        {
+            "item_type": "itype2",
+            "item_code": "icode_4",
+            "item_color": "yellow",
+            "item_size": "L",
+            "item_ref": "iref_1",
+            "item_price": "220",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Amin"
+        },
+        {
+            "item_type": "itype2",
+            "item_code": "icode_5",
+            "item_color": "orange",
+            "item_size": "M",
+            "item_ref": "iref_2",
+            "item_price": "1120",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Asmita"
+        },
+        {
+            "item_type": "itype2",
+            "item_code": "icode_6",
+            "item_color": "purple",
+            "item_size": "XL",
+            "item_ref": "iref_3",
+            "item_price": "1250",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Manisha"
+        },
+        {
+            "item_type": "itype3",
+            "item_code": "icode_7",
+            "item_color": "white",
+            "item_size": "L",
+            "item_ref": "iref_5",
+            "item_price": "1380",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Amin"
+        },
+        {
+            "item_type": "itype3",
+            "item_code": "icode_8",
+            "item_color": "blue",
+            "item_size": "M",
+            "item_ref": "iref_4",
+            "item_price": "890",
+            "item_added_on": "12/22/20",
+            "item_added_by": "Asmita"
+        }
+    ],
+    "item_ref": [
+        {
+            "item_refrense": "iref_1",
+            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        },
+        {
+            "item_refrense": "iref_2",
+            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\p_trans.png"
+        },
+        {
+            "item_refrense": "iref_3",
+            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        },
+        {
+            "item_refrense": "iref_4",
+            "item_urls": "D:\\collection\\res\\mipmap-hdpi\\ic_launcher_round.png;D:\\collection\\p_trans.png"
+        },
+        {
+            "item_refrense": "iref_5",
+            "item_urls": "D:\\collection\\p_trans.png;D:\\collection\\p_trans.png"
+        }
+    ],
+    "item_type": [
+        {
+            "item_type": "itype_1",
             "item_name": "iname_1",
             "item_description": "idesc_1",
             "item_brand": "ibrand_1"
         },
-            "item_code": "icode_1",
-            "item_color": "white",
-            "item_size": "L",
-            "item_ref": "data:image/png;base64,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",
-            "item_price": "530",
-            "item_added_on": "12/22/20",
-            "item_added_by": "Amin"
+        {
+            "item_type": "itype_2",
+            "item_name": "iname_2",
+            "item_description": "idesc_2",
+            "item_brand": "ibrand_2"
+        },
+        {
+            "item_type": "itype_3",
+            "item_name": "iname_3",
+            "item_description": "idesc_3",
+            "item_brand": "ibrand_3"
+        },
+        {
+            "item_type": "itype_4",
+            "item_name": "iname_4",
+            "item_description": "idesc_4",
+            "item_brand": "ibrand_4"
+        },
+        {
+            "item_type": "itype_5",
+            "item_name": "iname_5",
+            "item_description": "idesc_5",
+            "item_brand": "ibrand_5"
         }
-
     ]
 }
